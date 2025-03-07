@@ -1,0 +1,1 @@
+document.getElementById("new-date").textContent = new Date().toDateString();
